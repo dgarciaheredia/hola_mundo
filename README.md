@@ -6,3 +6,5 @@ simplemente imprime por pantalla el mensaje "Hello world!".
 ## Objetivo
 Este proyecto tiene como objetivo adquirir un conocimiento básico y
 fundamental sobre el uso de Git y su interacción con GitHub.
+
+Modificación desdde VSCode
